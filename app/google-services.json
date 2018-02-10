@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1018575712838",
+    "firebase_url": "https://jogja-hotel.firebaseio.com",
+    "project_id": "jogja-hotel",
+    "storage_bucket": "jogja-hotel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018575712838:android:02bbf7bf566a369b",
+        "android_client_info": {
+          "package_name": "com.pesanmerpati.hoteljogja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018575712838-5fi6u9uuof72jlvc03skrm16iio94v18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pesanmerpati.hoteljogja",
+            "certificate_hash": "595090885506199424728672f6186d130129e565"
+          }
+        },
+        {
+          "client_id": "1018575712838-vo4a0t4j95hi1b2n3mqj485orcssao5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4KQq5RxIyXVV-q7UkUHY-DrCTFwXiJi0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018575712838-vo4a0t4j95hi1b2n3mqj485orcssao5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
